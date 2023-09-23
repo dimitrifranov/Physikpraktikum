@@ -31,12 +31,16 @@ Student instructions and notebook templates for the physics lab course of Enviro
 
 
  #### List of Required Python Packages 
-  1. Numpy (allgemeine mumerische Berechnungen)
-  1. Scipy (für _Linear Regression_ und _Statistik_)
-  1. Matplotlib (für Abbildungen)
-  1. Uncertainties (für die Fehlerfortpflanzung)
-  1. Pandas (zum Einlesen und Verarbeiten von Tabellen)
-  1. tabulate (Tabellendarstellung)
+  1. Numpy  -> numerical computation
+  1. Scipy -> linear regression and statistics
+  1. Matplotlib -> plotting
+  1. Ipwidgets -> interactive plotting
+  1. Mpl-interaction -> interactive plotting
+  1. ipymbl -> interactive plotting
+  1. Jupyterlab -> Jupyter
+  1. Uncertainties -> error propagation
+  1. Pandas -> reading and working with dataframes (tables)
+  1. tabulate -> table printing
   
   
  
